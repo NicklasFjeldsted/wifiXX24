@@ -79,7 +79,7 @@ async function initSciChart() {
             fill: "#fff",
             lastPointOnly: true
         }),
-        strokeThickness: 7,
+        strokeThickness: 3,
         stroke: "#f48420"
     });
     
